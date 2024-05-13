@@ -1,0 +1,1 @@
+# terraform-azurerm-sql-managed-instance
